@@ -1,0 +1,56 @@
+.karta{
+    position: relative;
+    height:600px;
+    width: 320px;
+    background-color:bisque;
+    margin-top:4%;
+    margin-left: 4%;
+    border-radius: 6%;
+}
+
+.bohater1{
+    position: relative;
+    background-image: url(trevor.jpg);
+    width: 100%;
+    height: 100%; 
+    background-size: cover;
+    border-radius: 6%;
+}
+
+.bohater2{
+    position: relative;
+    background-image: url(michael.jpg);
+    width: 100%;
+    height: 100%; 
+    background-size: cover;
+    border-radius: 6%;
+}
+
+.bohater3{
+    position: relative;
+    background-image: url(franklin.jpg);
+    width: 100%;
+    height: 100%; 
+    background-size: cover;
+    border-radius: 6%;
+}
+
+.opis{
+    position: absolute;
+    bottom: 0%;
+    width: 100%;
+    height: 30%;;
+    background-color: blanchedalmond;
+    border-bottom-left-radius: 6%;
+    border-bottom-right-radius: 6%;
+    opacity: 0.9;
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+ 
